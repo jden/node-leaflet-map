@@ -1,7 +1,7 @@
 {
   "name": "leaflet-map",
   "author": "jden <jason@denizac.org>",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "simple way to make a leaflet map application",
   "keywords": [
     "leaflet",
